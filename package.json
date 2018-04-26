@@ -4,7 +4,7 @@
   "description": "Express Framework",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js -e js, hbs"
+    "start": "node app.js -e js,hbs"
   },
   "author": "geekGasm",
   "license": "ISC",
